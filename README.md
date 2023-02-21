@@ -5,9 +5,10 @@ This portfolio is a display of my skills and experience in data analytics, codin
 
 Competencies:
 
-Languages: SQL • Python • R
+Languages: SQL • Python 
 Tools: Power BI • Excel • Teradata • Visual Studio Code • Command Prompt • Git
 Skills: Reporting • Design & Presentation • Analysis • Data Management • Version Control
+
 Education:
 
 MS Data Analytics, Northwest Missouri State University, 2023 (expected)
@@ -20,10 +21,9 @@ Data Analyst in Power BI Career Track - Datacamp.com (Dec. 2022)
 Power BI Fundamentals Skill Track - Datacamp.com (Dec. 2022)
 SQL Fundamentals Skill Track - Datacamp.com (Dec. 2022)
 
+##################################################################################################
 Projects
 
-
-reddit logo
 Reddit Streaming Data Project
 
 Description: Streaming data using the Reddit API and RabbitMQ 
