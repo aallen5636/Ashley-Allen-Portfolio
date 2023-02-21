@@ -25,8 +25,7 @@ SQL Fundamentals Skill Track - Datacamp.com (In progress)
 Projects
 
 Reddit Streaming Data Project
-
-                              ![Github icon](https://user-        images.githubusercontent.com/95989498/220363854-4119b29f-12ff-4902-9f54-c791cda53d4a.png)
+![Github icon](https://user-        images.githubusercontent.com/95989498/220363854-4119b29f-12ff-4902-9f54-c791cda53d4a.png)
 
 Description: Streaming data using the Reddit API and RabbitMQ 
 Language: Python 
