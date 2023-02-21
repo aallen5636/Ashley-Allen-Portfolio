@@ -24,8 +24,7 @@ SQL Fundamentals Skill Track - Datacamp.com (In progress)
 *********************************************************************************************
 Projects
 
-Reddit Streaming Data Project
-![Github icon](https://user-        images.githubusercontent.com/95989498/220363854-4119b29f-12ff-4902-9f54-c791cda53d4a.png)
+Reddit Streaming Data Project                                                 
 
 Description: Streaming data using the Reddit API and RabbitMQ 
 Language: Python 
@@ -36,7 +35,8 @@ Description: Streaming data simulation using a csv file and RabbitMQ
 Language: Python
 Skills Demonstrated: Data cleansing, File handling
 
-nuforc logo
+nuforc logo![Github icon](https://user-images.githubusercontent.com/95989498/220364164-30c20002-8287-4387-ba5a-057de5d78c88.png)
+
 Missouri UFO Sightings Dashboard
 
 Description: Power BI report built on UFO sighting data from National UFO Reporting Center
