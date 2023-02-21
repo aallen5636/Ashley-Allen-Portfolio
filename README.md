@@ -17,11 +17,11 @@ Certifications:
 Microsoft Certified: Power BI Data Analyst Associate
 Professional Development:
 
-Data Analyst in Power BI Career Track - Datacamp.com (Dec. 2022)
-Power BI Fundamentals Skill Track - Datacamp.com (Dec. 2022)
-SQL Fundamentals Skill Track - Datacamp.com (Dec. 2022)
+Data Analyst in Power BI Career Track - Datacamp.com (In progress)
+Power BI Fundamentals Skill Track - Datacamp.com (In progress)
+SQL Fundamentals Skill Track - Datacamp.com (In progress)
 
-##################################################################################################
+*********************************************************************************************
 Projects
 
 Reddit Streaming Data Project
@@ -34,6 +34,7 @@ Smart BBQ Smoker Streaming Data Project
 Description: Streaming data simulation using a csv file and RabbitMQ
 Language: Python
 Skills Demonstrated: Data cleansing, File handling
+
 nuforc logo
 Missouri UFO Sightings Dashboard
 
